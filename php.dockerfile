@@ -1,7 +1,7 @@
 FROM php:7.2-fpm-alpine
 
-LABEL maintainer="y.ghorecha@milchundzucker.de" \
-      muz.customer="Lufthansa" \
+LABEL maintainer="y.ghorecha@xxxx.de" \
+      muz.customer="xxx" \
       muz.product="WIDC" \
       container.mode="production"
 
